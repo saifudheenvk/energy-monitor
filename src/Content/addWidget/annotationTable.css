@@ -1,0 +1,11 @@
+.ant-popover-placement-top,
+.ant-popover-placement-topLeft,
+.ant-popover-placement-topRight,
+.ant-popover-placement-bottomRight,
+.ant-popover-placement-bottomLeft,
+.ant-popover {
+  padding: 0px !important;
+}
+.ant-popover-inner-content {
+  padding: 0px !important;
+}
